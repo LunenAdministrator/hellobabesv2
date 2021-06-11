@@ -14,7 +14,7 @@
 				</v-card>
 			</v-col>
 			<v-col cols="12" md="6">
-				<v-card flat tile class="justify-center">
+				<v-card flat tile class="d-flex justify-center">
 					<img
 						src="https://i.pinimg.com/originals/b7/4d/23/b74d23f9a0b1afcde1151f47433e508f.png"
 						alt=""
