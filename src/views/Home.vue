@@ -1,18 +1,53 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+	<div>
+		<div>
+			<HeroSlider />
+		</div>
+		<v-container>
+			<Intro />
+		</v-container>
+		<v-container>
+			<ProductBox />
+		</v-container>
+		<div>
+			<Promo />
+		</div>
+		<v-container>
+			<Testimonial />
+		</v-container>
+		<v-container>
+			<SocialFeed />
+		</v-container>
+	</div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+	export default {
+		name: 'Home',
+		mounted(){
+			document.title ='| Home | Hellobabes |'
+		},
+		data() {
+			return {
+				colors: [
+					'green',
+					'secondary',
+					'yellow darken-4',
+					'red lighten-2',
+					'orange darken-1',
+				],
 
-export default {
-  name: 'Home',
-  components: {
-    HelloWorld
-  }
-}
+				slides: ['First', 'Second', 'Third', 'Fourth', 'Fifth'],
+			}
+		},
+
+		components: {
+			ProductBox: () => import('@/components/ProductBox'),
+			HeroSlider: () => import('@/components/HeroSlider'),
+			Intro: () => import('@/components/Intro'),
+			Promo: () => import('@/components/Promo'),
+			SocialFeed: () => import('@/components/SocialFeed'),
+			Testimonial: () => import('@/components/Testimonial'),
+		},
+	}
 </script>
