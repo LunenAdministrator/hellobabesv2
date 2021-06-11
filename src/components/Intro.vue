@@ -19,22 +19,22 @@
 						src="https://i.pinimg.com/originals/b7/4d/23/b74d23f9a0b1afcde1151f47433e508f.png"
 						alt=""
 						max-height="100"
-						width="150"
-						class="pa-2"
+						width="120"
+						class="pa-1"
 					/>
 					<img
 						src="https://lh3.googleusercontent.com/PsiIC8ZM_-21soCElBkkKqbohXd7lyL7TenHue5INueXqqtafPgZq0MtHBsYqBv-tfIteWtfDQxG2-HBpPYUpRFiy6BkQiqkeySYXl2UepStr4GfWe4CXKNrC6zkpMSGtqhYn1Fu3A=w2400"
 						alt=""
 						max-height="100"
-						width="150"
-						class="pa-2"
+						width="120"
+						class="pa-1"
 					/>
 					<img
 						src="https://i.pinimg.com/originals/88/ad/fc/88adfc25878cc177ae00eedcf389c4cd.png"
 						max-height="100"
-						width="150"
+						width="120"
 						alt=""
-						class="pa-2"
+						class="pa-1"
 					/>
 				</v-card>
 			</v-col>
