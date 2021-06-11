@@ -1,15 +1,19 @@
 <template>
 	<div class="my-5">
 		<v-row no-gutters>
-			<v-col cols="12" md="6" sm="12" >
+			<v-col cols="12" md="6" sm="12">
 				<v-card flat>
-					<h1 class="primary200--text text-md-h1 text-h2  mb-2">HelloBabes</h1>
-					<p class="subtitle-1">The safest, most effective formulas in simple routines that
-					bring remarkable results. No wonder HelloBabes is the #1
-					prestige beauty brand in the Malaysia.*</p>
+					<h1 class="primary200--text text-md-h1 text-h2  mb-2">
+						HelloBabes
+					</h1>
+					<p class="subtitle-1">
+						The safest, most effective formulas in simple routines
+						that bring remarkable results. No wonder HelloBabes is
+						the #1 prestige beauty brand in the Malaysia.*
+					</p>
 				</v-card>
 			</v-col>
-			<v-col cols="12" md="6">
+			<v-col cols="12">
 				<v-card flat tile class="d-flex justify-center">
 					<img
 						src="https://i.pinimg.com/originals/b7/4d/23/b74d23f9a0b1afcde1151f47433e508f.png"
