@@ -3,7 +3,9 @@
 		<v-row no-gutters>
 			<v-col cols="12" md="6">
 				<v-card flat>
-					<h1 class="primary200--text text-md-h1 text-h2  mb-2">
+					<h1
+						class="primary200--text text-center text-md-h1 text-h2  mb-2"
+					>
 						HelloBabes
 					</h1>
 					<p class="subtitle-1">
