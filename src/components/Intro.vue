@@ -14,22 +14,22 @@
 				</v-card>
 			</v-col>
 			<v-col cols="12" md="6">
-				<v-card flat tile class="d-flex justify-center">
+				<v-card flat tile class="justify-center">
 					<img
 						src="https://i.pinimg.com/originals/b7/4d/23/b74d23f9a0b1afcde1151f47433e508f.png"
 						alt=""
-						:width="100"
+						min-width="100"
 						class="pa-2"
 					/>
 					<img
 						src="https://lh3.googleusercontent.com/PsiIC8ZM_-21soCElBkkKqbohXd7lyL7TenHue5INueXqqtafPgZq0MtHBsYqBv-tfIteWtfDQxG2-HBpPYUpRFiy6BkQiqkeySYXl2UepStr4GfWe4CXKNrC6zkpMSGtqhYn1Fu3A=w2400"
 						alt=""
-						:width="100"
+						min-width="100"
 						class="pa-2"
 					/>
 					<img
 						src="https://i.pinimg.com/originals/88/ad/fc/88adfc25878cc177ae00eedcf389c4cd.png"
-						:width="100"
+						min-width="100"
 						alt=""
 						class="pa-2"
 					/>
