@@ -22,7 +22,7 @@
 				items: [
 					{
 						src:
-							'https://lh3.googleusercontent.com/3Oz5tavnF7Q04d2NgJad-HyOjb_gaIzTFrVLPBgl4HcJ48EYff8HLEzZekR0qWyU4kxtaazcBCHDkcDheOPVTb3kA3blpmdWpb1g8UvLYyAoKdXli7rfx9hX89c3VBAK8PKkFfDxUw=w2400',
+							'https://lh3.googleusercontent.com/CJj78RazFNZMFauIQe3fToe-nq1m4HiNLsx6xeCeImOBQcJqzfVuZ5FRtTIWx8l6MPtj8PE_m7UV5lZDKF3Dhjg3ozFl3GSY9sgXmX6xZ2qYPYyI-VzVxLORLkna0LARCYoHg92yqA=w2400',
 					},
 					{
 						src:

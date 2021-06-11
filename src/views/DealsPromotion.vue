@@ -51,7 +51,7 @@
 					title: 'Hello Babes Buy & Win MCO 3.0',
 					content:
 						'Purchase one box of Hello Babes Hair Vitamin from our website and get 1 Hair Scrunchie and 1 Hello Babes Green Envelopes. Purchase 2 Boxes or more and get 1 Hello Babes Limited Edition Paperbag, 1 Hair Scrunchie, and 1 Hello Babes Green Envelopes with "Duit Raya" worth up to RM200!. Wait no more!',
-					date: 'Contest period is from 5th till 11th June 2021.',
+					date: 'Promotion from 5th till 11th June 2021.',
 					src:
 						'https://lh3.googleusercontent.com/xny1drX4gLoKaKrhcWfybYjdDYKcVRGSJfoNO9evGb_plBrwZgzZSogdYx3j1pABsfhmMj7YyoFbc6NHK6wjqk1zDO3hv6A_wVVooUv5ljuNa7FP5KUcVoaiqDHYmNz3QMNe1dnhLg=w2400',
 					flex: 12,

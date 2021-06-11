@@ -8,7 +8,7 @@
 			app
 		>
 			<p class="white--text text-center font-weight-medium mt-3">
-				PRE ORDER 7th UNTIL 10th JUNE
+				PRE ORDER 7th UNTIL 11th JUNE
 			</p>
 		</v-system-bar>
 
