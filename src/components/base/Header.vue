@@ -25,13 +25,15 @@
 				</v-app-bar-nav-icon>
 
 				<v-spacer></v-spacer>
-				<v-img
-					lazy-src="https://i.pinimg.com/originals/36/68/29/366829140ec2b01747e15deea330fadf.png"
-					max-height="100"
-					max-width="80"
-					src="https://i.pinimg.com/originals/36/68/29/366829140ec2b01747e15deea330fadf.png"
-				>
-				</v-img>
+				<v-btn icon to="/" depressed color="primary200">
+					<v-img
+						lazy-src="https://i.pinimg.com/originals/36/68/29/366829140ec2b01747e15deea330fadf.png"
+						max-height="100"
+						max-width="80"
+						src="https://i.pinimg.com/originals/36/68/29/366829140ec2b01747e15deea330fadf.png"
+					>
+					</v-img>
+				</v-btn>
 
 				<v-spacer></v-spacer>
 				<v-icon class="ec-cart-widget">
