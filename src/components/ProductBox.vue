@@ -42,7 +42,7 @@
 
 				<v-card class="pa-2" outlined tile>
 					<v-card-title class="primary700--text"
-						>Available For Pre Order(260)</v-card-title
+						>Sorry Pre Order Closed</v-card-title
 					>
 					<v-card-actions
 					>
